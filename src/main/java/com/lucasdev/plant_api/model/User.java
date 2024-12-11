@@ -1,7 +1,4 @@
 package com.lucasdev.plant_api.model;
-
-import org.springframework.stereotype.Component;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
